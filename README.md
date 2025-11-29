@@ -1,6 +1,6 @@
 # c_programming_project
 
-🐍 Snake Game in C (Console Version)
+🐍 Snake Game in C code
 
 A simple Snake Game written in C using standard console functions.
 This version works on Windows, Linux, and Mac (with minor changes).
